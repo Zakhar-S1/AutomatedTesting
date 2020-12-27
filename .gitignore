@@ -191,3 +191,4 @@ gen
 target
 
 **/.DS_Store
+*.db
